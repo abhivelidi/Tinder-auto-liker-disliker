@@ -1,0 +1,14 @@
+{
+  "name": "cypress-tinder",
+  "version": "1.0.0",
+  "description": "Cypress automation project to automatically right-swipe entire tinder feed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "velidi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.1.5"
+  }
+}
